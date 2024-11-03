@@ -12,6 +12,7 @@
 
 
     //  Arrow Function 
+    // 
 
     const arrow_func_sum = ( a1:number , a2:number) : number => a1 + a2 ;
 
